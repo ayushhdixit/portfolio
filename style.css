@@ -635,10 +635,14 @@ footer span a:hover{
 	.home{
         background-size: contain;
         background-repeat: no-repeat;
-        background-position : 50px 150px ;
+        background-position : 50px 100px ;
     }
     .about{
-        margin-top: -200px;
+        margin-top: -220px;
+    }
+	.home .max-width{
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
     .max-width{
         padding: 0 23px;
